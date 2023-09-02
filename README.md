@@ -10,7 +10,7 @@
 Надеюсь ты не только посмотришь на мои работы, но и укажешь на места, которые требуют улучшения.
 Для этого можно черкнуть [сюда](mailto:ivan-my-job@mail.ru).
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callivan&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callivan&theme=github_dark&exclude=typescript)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=callivan&theme=github_dark)
 
 ## Навыки 👷‍♂️
